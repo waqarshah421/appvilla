@@ -1,0 +1,132 @@
+button{
+    color: 
+    ;
+    background-color: red;
+}
+/* button:hover{
+    color: aqua;
+} */
+.ll{
+    color: black;
+    background-color: white;
+}
+
+.main-container{
+    background-color:#FF597B;
+    height: 100vh;
+}
+.container{
+    margin-top: 20%;
+}
+.header{
+    margin-left: 20%;
+}
+.heading-1{
+    color: white;
+    font-weight: bold;
+}
+.heading-2-1{
+    color: brown;
+    text-align: center;
+}
+.heading-2{
+
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    text-align: center;
+}
+.mm{
+    color: aliceblue;
+    background-color: blue;
+}
+.kk{
+    background-color: aliceblue;
+}
+.gg{
+    font-weight: bold;
+}
+.main-container-2{
+    background-color: white;
+}
+.tt{
+    background-color: red;
+    color: black;
+}
+.main-container-3{
+    background-color: white;
+}
+.main-container-2-2{
+ background-color: #FF597B;
+ text-align: center;
+}
+.ii{
+    text-align: left;
+    margin-top: 20%;
+}
+.qq{
+    text-align: right;
+    margin-bottom: 20%;
+
+}
+.dd{
+    text-align: center;
+}
+.waqar{
+    text-align: center;
+    color: #FF597B;
+}
+.shah{
+    text-align: center;
+}
+.waqar-1{
+    text-align: center;
+}
+.heading-5{
+    color: #FF597B;
+    border: 2px solid rgb(247, 247, 247);
+}
+.xx{
+    text-align: center;
+}
+.div-1{
+    text-align: center;
+}
+.heading-6{
+    text-align: center;
+}
+.main-cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.aryo{
+    text-align: center;
+    margin-top: 14%;
+}
+.main-container-5{
+    background-color: #FF597B;
+    text-align: center;
+}
+.zz{
+    background-color: aliceblue;
+    color: black;
+}
+.ee{
+    background-color: aliceblue;
+    color: black;
+
+}
+.ee:hover{
+    background-color: white;
+}
+.opps{
+    text-align: center;
+}
+.main-container-10{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: aliceblue;
+}
+
